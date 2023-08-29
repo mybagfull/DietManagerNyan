@@ -1,0 +1,10 @@
+D:\university\OOP\DietManager\DietManager\Release\DietManager.Authorization.resources
+D:\university\OOP\DietManager\DietManager\Release\DietManager.UserInformation.resources
+D:\university\OOP\DietManager\DietManager\Release\DietManager.MyForm.resources
+D:\university\OOP\DietManager\DietManager\Release\DietManager.MainWindow.resources
+D:\university\OOP\DietManager\DietManager\Release\DietManager.product.resources
+D:\university\OOP\DietManager\DietManager\Release\DietManager.Registration.resources
+D:\university\OOP\DietManager\DietManager\Release\DietManager.usersfood.resources
+D:\university\OOP\DietManager\DietManager\Release\DietManager.settings.resources
+D:\university\OOP\DietManager\DietManager\Release\DietManager.vcxproj.GenerateResource.cache
+D:\university\OOP\DietManager\DietManager\Release\DietManager.exe
